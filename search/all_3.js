@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['drawcircle',['DrawCircle',['../group__Drawing.html#ga3b0bb070f8a91d5aea49858baf78c48e',1,'DrawCircle(Context &amp;context, int x, int y, int radius, const RGBA &amp;color):&#160;drawing.cpp'],['../group__Drawing.html#ga3b0bb070f8a91d5aea49858baf78c48e',1,'DrawCircle(Context &amp;context, int x, int y, int radius, const RGBA &amp;color):&#160;drawing.cpp']]],
+  ['drawcirclefill',['DrawCircleFill',['../group__Drawing.html#ga190f64f9e741fb80a601a91145946137',1,'DrawCircleFill(Context &amp;context, int x, int y, int radius, const RGBA &amp;color):&#160;drawing.cpp'],['../group__Drawing.html#ga190f64f9e741fb80a601a91145946137',1,'DrawCircleFill(Context &amp;context, int x, int y, int radius, const RGBA &amp;color):&#160;drawing.cpp']]],
+  ['drawclearscreen',['DrawClearScreen',['../group__Drawing.html#ga540dc704dc11f8aebb070f4bfb34eaac',1,'DrawClearScreen(Context &amp;ctx, const RGBA &amp;color):&#160;drawing.cpp'],['../group__Drawing.html#ga540dc704dc11f8aebb070f4bfb34eaac',1,'DrawClearScreen(Context &amp;context, const RGBA &amp;color={0, 0, 0, 255}):&#160;drawing.cpp']]],
+  ['drawing',['Drawing',['../group__Drawing.html',1,'']]],
+  ['drawing',['Drawing',['../group__DrawingInternals.html',1,'']]],
+  ['drawline',['DrawLine',['../group__Drawing.html#gad87111050cbbb8da4238bb91bcfed5ad',1,'DrawLine(Context &amp;ctx, int x0, int y0, int x1, int y1, const RGBA &amp;color):&#160;drawing.cpp'],['../group__Drawing.html#gad87111050cbbb8da4238bb91bcfed5ad',1,'DrawLine(Context &amp;context, int x0, int y0, int x1, int y1, const RGBA &amp;color):&#160;drawing.cpp']]],
+  ['drawrect',['DrawRect',['../group__Drawing.html#gae2449e0b8889e9909ee6addc64cef772',1,'DrawRect(Context &amp;ctx, int x, int y, int w, int h, const RGBA &amp;color):&#160;drawing.cpp'],['../group__Drawing.html#gae2449e0b8889e9909ee6addc64cef772',1,'DrawRect(Context &amp;context, int x, int y, int w, int h, const RGBA &amp;color):&#160;drawing.cpp']]],
+  ['drawrectfill',['DrawRectFill',['../group__Drawing.html#ga99ba4c835263704f036a771995218484',1,'DrawRectFill(Context &amp;ctx, int x, int y, int w, int h, const RGBA &amp;color):&#160;drawing.cpp'],['../group__Drawing.html#ga99ba4c835263704f036a771995218484',1,'DrawRectFill(Context &amp;context, int x, int y, int w, int h, const RGBA &amp;color):&#160;drawing.cpp']]]
+];

@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['pauseapp',['PauseApp',['../group__LifeCycle.html#gafebcc0f85cbd576c8d87aedeb411c194',1,'PauseApp(Context &amp;context):&#160;lifecycle.cpp'],['../group__LifeCycle.html#gafebcc0f85cbd576c8d87aedeb411c194',1,'PauseApp(Context &amp;context):&#160;lifecycle.cpp']]],
+  ['print',['Print',['../group__Text.html#ga49e1d9ab7d18fc3acfba7b890f21dc47',1,'Print(Context &amp;ctx, char ch, int x, int y, const RGBA &amp;color, int size):&#160;text.cpp'],['../group__Text.html#ga59b37576785bfa9797ad3046a8bb5e07',1,'Print(Context &amp;ctx, const std::string &amp;str, int x, int y, const RGBA &amp;color, int size, int spacing):&#160;text.cpp'],['../group__Text.html#ga49e1d9ab7d18fc3acfba7b890f21dc47',1,'Print(Context &amp;ctx, char ch, int x, int y, const RGBA &amp;color, int size=1):&#160;text.cpp'],['../group__Text.html#ga59b37576785bfa9797ad3046a8bb5e07',1,'Print(Context &amp;ctx, const std::string &amp;str, int x, int y, const RGBA &amp;color, int size=1, int spacing=0):&#160;text.cpp']]]
+];
